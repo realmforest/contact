@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Something is broken
+about: I found something broken
 title: ''
 labels: ''
 assignees: ''
